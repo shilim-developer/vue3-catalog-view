@@ -28,7 +28,10 @@ const config: LocaleSpecificConfig<DefaultTheme.Config> & {
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      {
+        icon: "github",
+        link: "https://github.com/shilim-developer/vue3-catalog-view",
+      },
     ],
   },
 };
