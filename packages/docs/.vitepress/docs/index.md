@@ -10,7 +10,7 @@ hero:
       text: Get Started
       link: /introduction
   image:
-    src: /img/logo.svg
+    src: /logo.svg
     alt: "vue3-catalog-view logo"
 
 features:

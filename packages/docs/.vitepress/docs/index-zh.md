@@ -11,7 +11,7 @@ hero:
       text: 开始使用
       link: /zh/introduction
   image:
-    src: /img/logo.svg
+    src: /logo.svg
     alt: "vue3-catalog-view logo"
 
 features:
