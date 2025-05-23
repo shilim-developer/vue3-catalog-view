@@ -1,6 +1,6 @@
-<center>
+<div align="center">
   <img src="./logo.svg"/>
-</center>
+</div>
 
 <h1 align="center">vue3-catalog-view</h1>
 
