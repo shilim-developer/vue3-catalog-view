@@ -1,5 +1,5 @@
 <center>
-  <img src="./logo.svg"/>
+  <img src="./packages/vue3-catalog-view/logo.svg"/>
 </center>
 
 <h1 align="center">vue3-catalog-view</h1>
