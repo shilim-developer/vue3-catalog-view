@@ -7,8 +7,7 @@ import vueJsx from "@vitejs/plugin-vue-jsx";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // title: "vue3-catalog-view",
-  // description: "catalog view auto product for vue3",
+  base: "/vue3-catalog-view/",
   srcDir: join(__dirname, "./docs"),
   cleanUrls: true,
   lang: "zh",
