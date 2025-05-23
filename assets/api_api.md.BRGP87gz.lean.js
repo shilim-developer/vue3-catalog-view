@@ -1,1 +1,0 @@
-import{_ as e,c as l,o as a,ae as i}from"./chunks/framework.CTCYvWT7.js";const x=JSON.parse('{"title":"CatalogView API","description":"","frontmatter":{},"headers":[],"relativePath":"api/api.md","filePath":"api/api.md"}'),n={name:"api/api.md"};function d(s,t,o,r,f,g){return a(),l("div",null,t[0]||(t[0]=[i("",5)]))}const c=e(n,[["render",d]]);export{x as __pageData,c as default};
