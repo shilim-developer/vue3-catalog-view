@@ -8,6 +8,6 @@
     "build": "vue-tsc -b && vite build"
   },
   "dependencies": {
-    "vue3-catalog-view": "1.0.7"
+    "vue3-catalog-view": "workspace:*"
   }
 }
