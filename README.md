@@ -73,6 +73,10 @@ pnpm install vue3-catalog-view
 | :-------- | :------------------------ |
 | default   | Customize catalog content |
 
+## Change Log
+
+[Change Log](./packages/vue3-catalog-view/CHANGELOG.md)
+
 ## License
 
 [License MIT](./LICENSE)

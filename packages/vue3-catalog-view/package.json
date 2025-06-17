@@ -1,6 +1,6 @@
 {
   "name": "vue3-catalog-view",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vue3 component that automatically extracts directories from articles based on tags",
   "files": [
     "lib",
@@ -13,6 +13,10 @@
   "main": "./lib/vue3-catalog-view.umd.js",
   "module": "./lib/vue3-catalog-view.es.js",
   "types": "./lib/index.d.ts",
+  "exports": {
+    "import": "./lib/vue3-catalog-view.es.js",
+    "require": "./lib/vue3-catalog-view.umd.js"
+  },
   "scripts": {
     "build": "vite build",
     "test": "vitest"

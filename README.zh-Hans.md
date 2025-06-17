@@ -73,6 +73,10 @@ pnpm install vue3-catalog-view
 | :------ | :------------- |
 | default | 自定义目录内容 |
 
+## 更新日志
+
+[更新日志](./packages/vue3-catalog-view/CHANGELOG.md)
+
 ## 许可证
 
 [License MIT](./LICENSE)

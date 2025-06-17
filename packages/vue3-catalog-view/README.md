@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg"/>
+  <img src="https://raw.githubusercontent.com/shilim-developer/vue3-catalog-view/refs/heads/master/packages/vue3-catalog-view/logo.svg?raw=true"/>
 </div>
 
 <h1 align="center">vue3-catalog-view</h1>
@@ -72,6 +72,10 @@ pnpm install vue3-catalog-view
 | Slot Name | Description               |
 | :-------- | :------------------------ |
 | default   | Customize catalog content |
+
+## Change Log
+
+[Change Log](./CHANGELOG.md)
 
 ## License
 
